@@ -9,19 +9,8 @@ Several models were run with varying degress of success:
 -adaboost/gdboost
 -random forest
 -bayes
-
-       
-       
-       
-
  
 <br/>
-
-
-
-
-
-
 
 Model Results:
 
@@ -30,7 +19,7 @@ Logistic and Gradient Boost performed the best
 GridSearch and Cross Validation were used to refine the models
 
 
-
+<br/>
 
 
 Uses of the model:
@@ -47,11 +36,7 @@ Since the loans are used to back RMBS instruments, the level of defaults can be 
 
 The models and their results can be useful to borrowers, RMBS issuers, investors, CDS sellers, and banks
 
-
-
-
-
-
+<br/>
 
 
 Improvement and Future Work:
