@@ -8,7 +8,7 @@ Several models were run with varying degress of success:
 -knn
 -adaboost/gdboost
 -random forest
--bayes
+-bayes. return
 
 
 
