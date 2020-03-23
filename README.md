@@ -10,13 +10,23 @@ Several models were run with varying degress of success:
 -random forest
 -bayes
 
+Model Results:
+
 Logistic and Gradient Boost performed the best
+
 GridSearch and Cross Validation were used to refine the models
 
+
+Uses of the model:
+
 The model can be used to predict if an individual loan will default or not
+
 Can look at predicted defaults to take action prior to default
+
 Can be used on a large, more general scale as an economic indicator 
+
 Level of predicted defaults can be compared to current and past trends to see how defaults relate to economic strength
+
 Since the loans are used to back RMBS instruments, the level of defaults can be used to indicate market movements
 
 The models and their results can be useful to borrowers, RMBS issuers, investors, CDS sellers, and banks
