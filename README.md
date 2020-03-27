@@ -50,3 +50,7 @@ Improvement and Future Work:
 -fit models to different mortgage pools, possibly based on riskiness level of the pool
 
 -compare defaults at different points in time
+
+<br/>
+
+https://docs.google.com/presentation/d/1a-9wMw5KUwp8GefvMEl7rxn2zLcpRgAu-kHpclk_ra8/edit?usp=sharing
