@@ -1,9 +1,9 @@
-# Mortgage_Default
+# Mortgage Default
 Predicting mortgage default or payoff for a pool of residential mortgages backing RMBS
 
 Data taken from Credit Risk Analytics
 
-Several models were run with varying degress of success:
+# Several models were run with varying degress of success:
 -logistic
 -knn
 -adaboost/gdboost
@@ -12,7 +12,7 @@ Several models were run with varying degress of success:
  
 <br/>
 
-Model Results:
+# Model Results:
 
 Logistic and Gradient Boost performed the best
 
@@ -22,7 +22,7 @@ GridSearch and Cross Validation were used to refine the models
 <br/>
 
 
-Uses of the model:
+# Uses of the model:
 
 The model can be used to predict if an individual loan will default or not
 
@@ -39,7 +39,7 @@ The models and their results can be useful to borrowers, RMBS issuers, investors
 <br/>
 
 
-Improvement and Future Work:
+# Improvement and Future Work:
 
 -more model types, parameter refinement
 
