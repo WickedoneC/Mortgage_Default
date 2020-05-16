@@ -4,10 +4,10 @@ Predicting mortgage default or payoff for a pool of residential mortgages backin
 Data taken from Credit Risk Analytics
 
 # Several models were run with varying degress of success:
--logistic
--knn
--adaboost/gdboost
--random forest
+-logistic <br/>
+-knn <br/>
+-adaboost/gdboost <br/>
+-random forest <br/>
 -bayes
  
 <br/>
