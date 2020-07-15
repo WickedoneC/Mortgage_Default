@@ -56,5 +56,3 @@ The models and their results can be useful to borrowers, RMBS issuers, investors
 [Presentation Link](https://docs.google.com/presentation/d/1a-9wMw5KUwp8GefvMEl7rxn2zLcpRgAu-kHpclk_ra8/edit?usp=sharing)
 
 
-<br/>
-ReadMe still in progress
